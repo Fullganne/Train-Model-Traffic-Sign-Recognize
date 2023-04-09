@@ -1,0 +1,15 @@
+Django
+dj-database-url
+gunicorn
+psycopg2
+psycopg2-binary
+whitenoise
+request
+matplotlib
+numpy
+opencv-python
+scikit-image
+tensorflow
+Pillow
+
+
